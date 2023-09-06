@@ -33,7 +33,7 @@
     {"key":"drpy_js_磁力熊","name":"搜索 | 磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js"},
     {"key": "YGP","name": "预告片世界","api": "csp_YGP","type": 3},
 
-    {"key":"lf_live10_min","name":"直播转点播","type":3,"api":"./js/lf_live10_min.js"},
+    {"key":"lf_live10_min","name":"直播转点播","type":3,"api":"./js/lf_live10_min.js","ext":"./ext/lf_live_min.json"},
 
     {"key": "AList","name": "AList","api": "csp_AList","type": 3,"ext": "./ext/alist.json"},
     {"key": "Bili","name": "Bili","api": "csp_Bili","type": 3,"style": {"type": "rect","ratio": 1.597},"ext": {"ext": "./ext/bili.ext","type": "知名UP主#相声小品#解说#电影#电视剧#荒野求生#说案#美食#食谱","cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"}},
@@ -124,14 +124,6 @@
     {"key": "蚂蚁","name": "️蚂蚁(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "http://wushutvcms.byzz.top/api.php/app/"},
     {"key": "365","name": "365影视(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "http://guan.yy365.vip/api.php/app/"},
     {"key": "落落","name": "️黑影剧院(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"},
-
-
-
-
-
-
-
-
 
     {"key": "Doll","name": "玩偶","api": "csp_Doll","type": 3,"style": {"type": "rect","ratio": 1.309}},
     {"key": "Hanime","name": "Hanime","api": "csp_Hanime","type": 3,"style": {"type": "rect","ratio": 0.68}},
