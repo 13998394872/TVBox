@@ -115,7 +115,7 @@
     {"key": "MmYs","name": "陌陌","api": "csp_MmYs","type": 3},
     {"key": "Czsapp","name": "厂长","api": "csp_Czsapp","type": 3},
     {"key": "Kuaikan","name": "快看","api": "csp_Kuaikan","type": 3},
-    {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1},
+    {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1"},
     {"key": "Star","name": "星星","api": "csp_Star","type": 3},
 
     {"key": "探探","name": "影探(FTY)","type": 3,"api": "csp_YTVIP","ext": "vip.lyyytv.cn","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"},
