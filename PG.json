@@ -41,7 +41,7 @@
     {"key":"drpy_js_评书随身听","name":"评书随身听(js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/评书随身听.js","playerType":"2"},
 
     {"key": "AList","name": "AList","api": "csp_AList","type": 3,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alist.json"},
-    {"key": "Bili","name": "Bili","api": "csp_Bili","type": 3,"style": {"type": "rect","ratio": 1.597},"ext": {"json": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/bili.ext","type": "知名UP主#相声小品#解说#电影#电视剧#荒野求生#说案#美食#食谱","cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"}},
+    {"key": "Bili","name": "Bili","api": "csp_Bili","type": 3,"style": {"type": "rect","ratio": 1.597},"ext": {"json": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/bili.json","type": "知名UP主#相声小品#解说#电影#电视剧#荒野求生#说案#美食#食谱","cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"}},
 
     {"key": "csp_Yj1211","name": "电竞直播(FTY)","type": 3,"api": "csp_Yj1211","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"},
     {"key":"drpy_js_JustLive","name":"JustLive(js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/JustLive.js"},
@@ -388,7 +388,7 @@
     {"key": "Doll","name": "玩偶","api": "csp_Doll","type": 3,"style": {"type": "rect","ratio": 1.309}},
     {"key": "Hanime","name": "Hanime","api": "csp_Hanime","type": 3,"style": {"type": "rect","ratio": 0.68}},
 
-    {"key": "csp_xBPQ_聚优AV解说","name": "新香蕉AV解说(XBPQ)","type": 3,"api": "csp_xBPQ","style":{ "type":"rect", "ratio": 1.777 },"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/新香蕉AV解说.ext","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/新香蕉.jar"},
+    {"key": "csp_xBPQ_聚优AV解说","name": "新香蕉AV解说(XBPQ)","type": 3,"api": "csp_xBPQ","style":{ "type":"rect", "ratio": 1.777 },"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/新香蕉AV解说.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/新香蕉.jar"},
     {"key": "csp_xBPQ_超清","name": "新香蕉超清资源(XBPQ)","type": 3,"api": "csp_xBPQ","style":{ "type":"rect", "ratio": 1.485 },"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\",\"分类\":\"亚洲AV$2k-yazhou#欧美AV$2k-oumei#超清传媒$2k-chaoqingchuanmei#超清三级$2k-chaoqingsanji#自拍偷拍$2k-zipaitoupai#直播录播$2k-zhibolubo#3D动漫$2k-3Ddongman#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#SM另类$2k-SMlinglei\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/新香蕉.jar"},
 
     {"key": "JavBus","name": "🧲JavBus","api": "csp_JavBus","type": 3,"style":{ "type":"rect" },"ext":"$$$socks5://192.168.50.1:23456"},
@@ -470,7 +470,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Open_Token.ext"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Open_Token.json"
     }
   ],
   "parses": [
