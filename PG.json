@@ -108,6 +108,8 @@
 
     {"key": "暴風","name": "暴风(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list"},
 
+    {"key": "ikanbot","name": "爱看机器人(Cat)","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"},
+
     {"key":"drpy_js_荐片","name":"荐片(js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/荐片.js","playerType":"1"},
 
     {"key": "BLSGod","name": "80影视","api": "csp_BLSGod","type": 3},
