@@ -28,7 +28,7 @@
     }
   ],
   "sites": [
-    {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1"},
+    {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1","jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
     {"key": "csp_XYQHiker_量子影视","name":"量子影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/量子影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"},
 
     {"key": "Doll","name": "玩偶姐姐","api": "csp_Doll","type": 3,"style": {"type": "rect","ratio": 1.485}},
@@ -49,7 +49,7 @@
     {"key": "csp_xBPQ_聚优AV解说","name": "新香蕉AV解说(XBPQ)","type": 3,"api": "csp_xBPQ","style":{ "type":"rect", "ratio": 1.485 },"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/新香蕉AV解说.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/新香蕉.jar"},
     {"key": "csp_xBPQ_超清","name": "新香蕉超清资源(XBPQ)","type": 3,"api": "csp_xBPQ","style":{ "type":"rect", "ratio": 1.485 },"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\",\"分类\":\"亚洲AV$2k-yazhou#欧美AV$2k-oumei#超清传媒$2k-chaoqingchuanmei#超清三级$2k-chaoqingsanji#自拍偷拍$2k-zipaitoupai#直播录播$2k-zhibolubo#3D动漫$2k-3Ddongman#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#SM另类$2k-SMlinglei\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/新香蕉.jar"},
 
-    {"key": "Miss","name": "MissAV","api": "csp_Miss","type": 3,"style": {"type": "rect","ratio": 1.485}},
+    {"key": "Miss","name": "MissAV","api": "csp_Miss","type": 3,"style": {"type": "rect","ratio": 1.485},"jar": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/JAR/Yoursmile.jar"},
     {"key": "Eighteen","name": "18AV","api": "csp_Eighteen","type": 3,"style": {"type": "rect","ratio": 1.485}},
     {"key": "Jable","name": "Jable","api": "csp_Jable","type": 3,"style": {"type": "rect","ratio": 1.485}},
 
