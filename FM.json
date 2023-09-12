@@ -91,6 +91,8 @@
     {"key":"drpy_js_趣盘搜","name":"📀趣盘搜(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/funletu.js"},
     {"key":"drpy_js_爱盘搜","name":"📀爱盘搜(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/aipanso.js"},
     {"key":"drpy_js_人人分享","name":"📀人人分享(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"},
+    {"key":"drpy_js_meow.tg","name":"📀MEOW.TG(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/meow.js"},
+
     {"key": "Dovx","name": "📀七夜","api": "csp_Dovx","type": 3},
     {"key": "UpYun","name": "📀Up搜","api": "csp_UpYun","type": 3},
     {"key": "YiSo","name": "📀易搜","api": "csp_YiSo","type": 3},
