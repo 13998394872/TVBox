@@ -116,11 +116,9 @@
     {"key": "feifan","name": "非凡(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json"},
     {"key": "bfzy","name": "暴风(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "http://app.bfzyapi.com/api.php/provide/vod/at/json"},
     {"key": "49zyw","name": "49(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json"},
-    {"key": "hw8","name": "华为(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://hw8.live/api.php/provide/vod/at/json"},
     {"key": "kuaikan-ap","name": "快看(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/at/json"},
     {"key": "kuaiyunzy","name": "快云(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json"},
-    {"key": "taopianapi","name": "淘片(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://taopianapi.com/cjapi/mc10/vod/json.html"},
-    {"key": "xkanzy10","name": "享看(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://xkanzy10.com/api.php/provide/vod/at/json"},
+    {"key": "taopianapi","name": "淘片(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
     {"key": "jisu","name": "极速(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json"},
     {"key": "xzcjz","name": "熊掌(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://xzcjz.com/api.php/provide/vod/at/json"},
 
