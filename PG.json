@@ -29,7 +29,15 @@
   ],
   "sites": [
     {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1","jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-    {"key": "csp_XYQHiker_量子影视","name":"量子影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/量子影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"},
+
+    {"key": "1080zy","name": "1080(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","categories": ["福利","倫理片"]},
+    {"key": "jisu","name": "极速(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "liangzi","name": "量子(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "feifan","name": "非凡(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "bfzy","name": "暴风(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "http://app.bfzyapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "kuaikan-ap","name": "快看(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "kuaiyunzy","name": "快云(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
+    {"key": "49zyw","name": "49(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json","categories": ["其它片"]},
 
     {"key": "Doll","name": "玩偶姐姐","api": "csp_Doll","type": 3,"style": {"type": "rect","ratio": 1.485}},
     {"key": "Hanime","name": "Hanime","api": "csp_Hanime","type": 3,"style": {"type": "rect","ratio": 0.68}},
