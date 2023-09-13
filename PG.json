@@ -30,7 +30,7 @@
   "sites": [
     {"key": "NiNi","name": "泥巴","api": "csp_NiNi","type": 3,"ext":"1","jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 
-    {"key": "1080zy","name": "1080(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","categories": ["福利","倫理片"]},
+    {"key": "1080zy","name": "1080(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","categories": ["倫理片","福利"]},
     {"key": "jisu","name": "极速(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
     {"key": "liangzi","name": "量子(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
     {"key": "feifan","name": "非凡(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json","categories": ["伦理片"]},
