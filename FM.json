@@ -43,7 +43,8 @@
     {"key": "AList","name": "AList","api": "csp_AList","type": 3,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alist.json"},
     {"key": "Bili","name": "Bili","api": "csp_Bili","type": 3,"style": {"type": "rect","ratio": 1.597},"ext": {"json": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/bili.json","type": "知名UP主#相声小品#解说#电影#电视剧#荒野求生#说案#美食#食谱","cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"}},
 
-    {"key": "csp_Yj1211","name": "电竞直播(FTY)","type": 3,"api": "csp_Yj1211","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"},
+    {"key": "Yj1211","name": "JustLive(Ym)","api": "csp_Yj1211","type": 3,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/Ym1.jar"},
+    {"key": "csp_Yj1211","name": "JustLive(FTY)","type": 3,"api": "csp_Yj1211","jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"},
     {"key":"drpy_js_JustLive","name":"JustLive(js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/JustLive.js"},
     {"key": "csp_XYQHiker_斗鱼直播","name": "斗鱼直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/斗鱼直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"},
     {"key": "csp_XYQHiker_虎牙直播","name": "虎牙直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/虎牙直播.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"},
@@ -110,7 +111,18 @@
     {"key":"drpy_js_低端","name":"📀低端(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ddys.js"},
     {"key":"drpy_js_LIBVIO","name":"📀LIBVIO(PG)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/libvio.js"},
 
-    {"key": "暴風","name": "暴风(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list"},
+    {"key": "1080zy","name": "1080(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php"},
+    {"key": "liangzi","name": "量子(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/at/json"},
+    {"key": "feifan","name": "非凡(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json"},
+    {"key": "bfzy","name": "暴风(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "http://app.bfzyapi.com/api.php/provide/vod/at/json"},
+    {"key": "49zyw","name": "49(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json"},
+    {"key": "hw8","name": "华为(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://hw8.live/api.php/provide/vod/at/json"},
+    {"key": "kuaikan-ap","name": "快看(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/at/json"},
+    {"key": "kuaiyunzy","name": "快云(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json"},
+    {"key": "taopianapi","name": "淘片(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://taopianapi.com/cjapi/mc10/vod/json.html"},
+    {"key": "xkanzy10","name": "享看(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://xkanzy10.com/api.php/provide/vod/at/json"},
+    {"key": "jisu","name": "极速(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json"},
+    {"key": "xzcjz","name": "熊掌(采集)","type": 1,"searchable": 1,"changeable": 1,"api": "https://xzcjz.com/api.php/provide/vod/at/json"},
 
     {"key":"drpy_js_荐片","name":"荐片(js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/荐片.js","playerType":"1"},
 
