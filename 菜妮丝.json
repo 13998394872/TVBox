@@ -26,17 +26,6 @@
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
     },
     {
-      "key": "野荷塘",
-      "name": "野荷塘┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/野荷塘.json"
-    },
-    {
       "key": "素白白影视",
       "name": "素白白┃影视",
       "type": 3,
@@ -46,17 +35,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
-    },
-    {
-      "key": "莫扎兔",
-      "name": "莫扎兔┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/莫扎兔.json"
     },
     {
       "key": "干饭影视",
@@ -90,17 +68,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"
-    },
-    {
-      "key": "Vidhub",
-      "name": "Vidhub┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/Vidhub.json"
     },
     {
       "key": "冷曦影视",
@@ -158,17 +125,6 @@
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/52看剧.json"
     },
     {
-      "key": "零度影视",
-      "name": "零度┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/零度影视.json"
-    },
-    {
       "key": "短视频",
       "name": "短视频┃聚合",
       "type": 3,
@@ -178,17 +134,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/短视频.json"
-    },
-    {
-      "key": "酷奇MV",
-      "name": "🎵酷奇┃MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/酷奇MV.json"
     },
     {
       "key": "push_agent",
