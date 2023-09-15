@@ -71,7 +71,7 @@
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
         "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
         "分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
-        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html"
+        "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html;;m"
       }
     },
     {
