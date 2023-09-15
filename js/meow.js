@@ -1,5 +1,5 @@
 var rule = {
-	title:'MEOW.TG[搜]',
+	title:'meow.tg[搜]',
 	host:'https://meow.tg',
 	homeUrl:'/',
 	url:'*',
