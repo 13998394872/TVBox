@@ -1,0 +1,19 @@
+{
+  "站名": "北川影视",
+  "请求头": "手机#Referer$http://bczhuiju.com/",
+  "主页url": "http://bczhuiju.com",
+  "副标题": "<div class=\"module-item-note\">&&</div>",
+  "线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]",
+  "线路标题": "<span>&&</span>",
+  "嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4",
+  "播放数组": "<div class=\"module-play-list-content&&</div>",
+  "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+  "导演": "导演：</span>&&</div>",
+  "主演": "主演：</span>&&</div>",
+  "简介": "style=\"line-height: 20px;\"&&</p>",
+  "播放列表": "<a&&</a>",
+  "播放标题": "<span>&&</span>",
+  "播放链接": "href=\"&&\"",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  "分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"
+}

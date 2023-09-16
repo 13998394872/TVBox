@@ -1,0 +1,11 @@
+{
+  "站名": "MP4电影",
+  "首页": "电视剧",
+  "分类url": "https://m.mp4us.com/list/{cateId}-{catePg}.html;;d",
+  "分类": "动作片&科幻片&电视剧&动画片",
+  "分类值": "1&2&10&9",
+  "搜索url": "/search/;post;wd={wd}",
+  "线路合并": "1",
+  "播放数组": "panel down-list thunder&&</ul>",
+  "播放列表": "<div class=\"url-left\"><a &&</a>"
+}
