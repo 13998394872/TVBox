@@ -29,63 +29,16 @@
   ],
   "sites": [
     {
-      "key": "csp_XBPQ秋霞影视",
-      "name": "️🍂秋霞影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
-        "分类url": "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
-        "跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-        "二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-    {
-      "key": "csp_XBPQ吼吼影视",
-      "name": "🎞️吼吼影视〔XBPQ〕",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/63304/%E5%90%BC%E5%90%BC%28xBPQ%29.json?sign=V7Jqm42NGjs5jP8Hn7gqamNtCAMLulk5paVu0cSN7mI%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"
-    },
-    {
-      "key": "csp_XBPQ_6V",
-      "name": "🌙宝盒4K磁力",
+      "key": "蘑菇",
+      "name": "🍄┃蘑菇┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
+      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
     },
-    {
-      "key": "csp_饭团",
-      "name": "🦄饭团4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E9%A5%AD%E5%9B%A2.json"
-    },
-    {
-      "key": "csp_XBPQ_yl影院",
-      "name": "🐉御龙高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/御龙高清.json"
-    },
-
+    {"key": "csp_XBPQ_吼吼","name": "吼吼(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/吼吼.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
 
 
     {
