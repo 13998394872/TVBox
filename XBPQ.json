@@ -28,89 +28,9 @@
     }
   ],
   "sites": [
-    {
-      "key": "飞云4K",
-      "name": "飞云4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E9%A3%9E%E4%BA%91"
-    },
-    {
-      "key": "云云资源",
-      "name": "💧云云┃4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E4%BA%91%E4%BA%91%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "野马",
-      "name": "野马影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E9%87%8E%E9%A9%AC%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "XBPQ_ph",
-      "name": "胖虎影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_slgq",
-      "name": "石榴电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E7%9F%B3%E6%A6%B4%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "HDmoli",
-      "name": "HDmoli",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E9%AD%94%E5%8A%9B%E9%AB%98%E6%B8%85.json"
-    },
-    {
-      "key": "大米星球",
-      "name": "大米星球",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
-    },
-    {
-      "key": "Vidhub",
-      "name": "Vidhub┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/Vidhub.json"
-    },
-
-
-
-
-
-
+    {"key": "csp_XBPQ_胖虎影视","name": "胖虎影视(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/胖虎影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+    {"key": "csp_XBPQ_大米星球","name": "大米星球(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/大米星球.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+    {"key": "csp_XBPQ_VidHub","name": "VidHub(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/VidHub.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
 
     {
       "key": "push_agent",
