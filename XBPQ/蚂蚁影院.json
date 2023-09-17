@@ -1,4 +1,5 @@
 {
+  "站名": "蚂蚁影院",
   "分类url": "https://mayitube.com/c/{cateId}?country={area}&page={catePg}&year={year};;k",
   "分类": "电影$movie#电视剧$tvseries#综艺$tvshow#动漫$anime",
   "数组": "<div class=\"vodcard\">&&</div>",
