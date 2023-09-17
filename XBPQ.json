@@ -28,58 +28,304 @@
     }
   ],
   "sites": [
+    {"key": "csp_XBPQ_饭团影院","name": "饭团影院(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/饭团影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+
+
     {
-      "key": "mtv_饭团影视",
-      "name": "饭团",
+      "key": "分享者",
+      "name": "分享秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://download.kstore.space/download/4127/分享者.json"
+    },
+    {
+      "key": "XBPQ_蚂蚁",
+      "name": "蚂蚁影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://shuyuan.miaogongzi.net/shuyuan/1687192148.json"
+    },
+    {
+      "key": "独播库",
+      "name": "蚂蚁",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/饭团影视.json",
-      "jar": "http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"
+      "ext": "https://notabug.org/ygfxz/6/raw/main/js/独播.json"
     },
     {
-      "key": "mtv_饭团影院",
-      "name": "饭团",
+      "key": "苹果",
+      "name": "苹果电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/苹果影视.json"
+    },
+    {
+      "key": "csp_XBPQ_仁",
+      "name": "乐仁影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/乐仁.json"
+    },
+    {
+      "key": "无心影视",
+      "name": "无心影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/",
+        "分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29"
+      }
+    },
+    {
+      "key": "jumi",
+      "name": "GimyTV剧迷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/剧迷.json"
+    },
+    {
+      "key": "港剧网",
+      "name": "港剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.aitv1.com/show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"
+      }
+    },
+    {
+      "key": "csp_6v",
+      "name": "💥6V|电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/6v.json"
+    },
+    {
+      "key": "yaya",
+      "name": "️✴️是屁屁呀",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://111.67.196.181/xpath/饭团影院.json"
+      "ext": {
+        "分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr",
+        "分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"
+      }
     },
     {
-      "key": "mtv_哔哩兔源",
-      "name": "哔兔",
+      "key": "鲸落",
+      "name": "🌐鲸落绝唱",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#连续剧$2#动漫$3#综艺$4",
+        "线路标题": "[不包含:腾讯#爱奇艺#优酷#芒果]",
+        "分类url": "http://tv.406np.xyz/index.php/vod/type/id/{cateId}.html"
+      }
+    },
+    {
+      "key": "csp_王",
+      "name": "WZ影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/哔哩兔源.json"
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/王子.json"
     },
     {
-      "key": "mtv_九一影视",
-      "name": "九一",
+      "key": "csp_爱看",
+      "name": "🎁爱看不看",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/九一影视.json",
-      "jar": "http://meow.miaotvs.cn/02.png;md5;F3687D6E511A73CAF72F4757A04518B2"
+      "ext": "https://download.kstore.space/download/4127/js/爱看不看.json"
     },
     {
-      "key": "mtv_爱看影视",
-      "name": "爱看",
+      "key": "ok",
+      "name": "👌FREEOK",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/free.json"
+    },
+    {
+      "key": "XX",
+      "name": "星影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/zD7nt0/XX.json"
+    },
+    {
+      "key": "PQ-fd",
+      "name": "🍝饭团|HD",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/66666/mao/raw/branch/master/json/饭团.json"
+    },
+    {
+      "key": "一龙",
+      "name": "🐲一条巨龙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/一龙.json"
+    },
+    {
+      "key": "city",
+      "name": "📺city电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "数组": "<li>&&</li>",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5",
+        "分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "csp_xBPQ_咔咪",
+      "name": "🎯咔咪影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/VK28C8/%E5%92%94%E5%92%AA%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_XBPQ_暴风",
+      "name": "❣️暴风影音",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/暴风影音.json"
+    },
+    {
+      "key": "人人",
+      "name": "🎎人来人往",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "数组": "class=\"module-item\"&&</div>",
+        "分类": "影视库$all",
+        "分类url": "https://www.renren.pro/list/{cateId}?page={catePg}"
+      }
+    },
+    {
+      "key": "csp_XBPQxg",
+      "name": "🍉西瓜视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4127/js/西瓜视频.js"
+    },
+    {
+      "key": "csp_xBPQ_传递",
+      "name": "🎭八蛋影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4127/js/八蛋影视.js"
+    },
+    {
+      "key": "mtv_XBPQ_91影视",
+      "name": "🍷酒妖影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4127/js/酒遥.json"
+    },
+    {
+      "key": "XBPQ_天空",
+      "name": "🛰️天空影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "m3u8ads": "hd.youyhn.com",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4127/天空.js"
+    },
+    {
+      "key": "mtv_XBPQ_淘剧",
+      "name": "️📡淘剧影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/66666/XC/raw/branch/master/json/淘剧影院.json"
+    },
+    {
+      "key": "mtv_XBPQ_稀饭影院",
+      "name": "🍵稀饭影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/66666/000/raw/branch/master/XBPQ/稀饭影视.json"
+    },
+    {
+      "key": "csp_xBPQ_野荷塘",
+      "name": "☘️荷塘月色",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://111.67.196.181/xpath/爱看影视.json"
+      "ext": "https://download.kstore.space/download/4127/野荷塘.json"
     },
+    {
+      "key": "csp_xBPQ_大米",
+      "name": "🛖大米星球",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://download.kstore.space/download/4127/大米星球.json"
+    },
+    {
+      "key": "csp_xBPQ_抓饭体育",
+      "name": "️🥇抓饭体育",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
+    },
+
 
 
     {
