@@ -28,9 +28,39 @@
     }
   ],
   "sites": [
-    {"key": "csp_XBPQ_胖虎影视","name": "胖虎影视(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/胖虎影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_大米星球","name": "大米星球(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/大米星球.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_VidHub","name": "VidHub(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/VidHub.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+    {
+      "key": "csp_xBPQ_爱看影视",
+      "name": "💖爱看影视〔SP〕",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
+    },
+    {
+      "key": "csp_xBPQ_诺讯影视",
+      "name": "️💢诺讯(XB)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/诺讯影视.json"
+    },
+    {
+      "key": "csp_XBPQ_真不卡",
+      "name": "️💢真不卡(XB)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
+    },
+
+
+
 
     {
       "key": "push_agent",
