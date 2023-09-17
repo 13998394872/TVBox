@@ -29,16 +29,57 @@
   ],
   "sites": [
     {
-      "key": "蘑菇",
-      "name": "🍄┃蘑菇┃影视",
+      "key": "mtv_饭团影视",
+      "name": "饭团",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
+      "ext": "http://111.67.196.181/xpath/饭团影视.json",
+      "jar": "http://meow.miaotvs.cn/03.png;md5;E8F444CDA5A3FE0F21B31DB313E93753"
     },
-    {"key": "csp_XBPQ_吼吼","name": "吼吼(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/吼吼.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+    {
+      "key": "mtv_饭团影院",
+      "name": "饭团",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://111.67.196.181/xpath/饭团影院.json"
+    },
+    {
+      "key": "mtv_哔哩兔源",
+      "name": "哔兔",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.67.196.181/xpath/哔哩兔源.json"
+    },
+    {
+      "key": "mtv_九一影视",
+      "name": "九一",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.67.196.181/xpath/九一影视.json",
+      "jar": "http://meow.miaotvs.cn/02.png;md5;F3687D6E511A73CAF72F4757A04518B2"
+    },
+    {
+      "key": "mtv_爱看影视",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://111.67.196.181/xpath/爱看影视.json"
+    },
 
 
     {
