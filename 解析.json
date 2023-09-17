@@ -460,11 +460,6 @@
       }
     },
     {
-      "name": "-777-",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
       "name": "-咸鱼-",
       "type": 0,
       "url": "https://jx.xyflv.com/?url="
@@ -475,11 +470,6 @@
       "url": "https://jx.quankan.app/?url="
     },
     {
-      "name": "杰森",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
       "name": "free",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
@@ -488,36 +478,6 @@
       "name": "ok",
       "type": 0,
       "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "bozrc",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
-        }
-      }
     },
     {
       "name": "不累",
