@@ -28,13 +28,44 @@
     }
   ],
   "sites": [
-    {"key": "csp_XBPQ_555电影","name": "555电影(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/555电影.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_Voflix","name": "Voflix(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/Voflix.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_宝仙HD","name": "宝仙HD(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/宝仙HD.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_策驰影院","name": "策驰影院(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/策驰影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_厂长资源","name": "厂长资源(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/厂长资源.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_圣城影视","name": "圣城影视(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/圣城影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
-    {"key": "csp_XBPQ_思古影视","name": "思古影视(XBPQ)","type": 3,"api": "csp_XBPQ","ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/思古影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+    {
+      "key": "csp_茉莉",
+      "name": "HDmoli",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/moli.json",
+      "jar": "https://jihulab.com/xsvip/duo/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+    },
+    {
+      "key": "csp_去看吧",
+      "name": "去看吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/去看动漫.json",
+      "jar": "https://jihulab.com/xsvip/duo/-/raw/main/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+    },
+
+    {
+      "key": "csp_XBPQ_6V",
+      "name": "🧲新版6V",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
+    },
+
+
+
+
+
 
     {
       "key": "push_agent",
