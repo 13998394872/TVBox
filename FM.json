@@ -3852,7 +3852,7 @@
   ],
   "rules": [
     {
-      "name": "磁力廣告",
+      "name": "磁力",
       "hosts": [
         "magnet"
       ],
@@ -3893,7 +3893,7 @@
       ]
     },
     {
-      "name": "量子廣告",
+      "name": "量子",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -3905,7 +3905,7 @@
       ]
     },
     {
-      "name": "非凡廣告",
+      "name": "非凡",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -3916,13 +3916,24 @@
       ]
     },
     {
-      "name": "暴风廣告",
+      "name": "暴风",
       "hosts": [
         "bfzy",
         "s5.bfzycdn"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "极速",
+      "hosts": [
+        "jszy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
