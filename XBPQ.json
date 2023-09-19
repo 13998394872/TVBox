@@ -39,7 +39,8 @@
       "ext": {
         "分类": "电影$1#连续剧$2#综艺$3#动漫$5#纪录片$4",
         "分类url": "https://lgyy.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-    },
+     }
+   },
     {
       "key": "csp_XBPQ_南瓜影视",
       "name": "南瓜影视",
@@ -51,7 +52,8 @@
       "ext": {
         "分类": "电影$20#连续剧$21#动漫$22#综艺$23",
         "分类url": "https://www.ngys8.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-    },
+     }
+   },
 
 
     {
