@@ -1860,6 +1860,14 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
+      "key": "csp_XBPQ_恐怖世界",
+      "name": "恐怖世界(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/恐怖世界.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+    {
       "key": "csp_XBPQ_酷茶影视",
       "name": "酷茶影视(XBPQ)",
       "type": 3,
