@@ -668,6 +668,43 @@
       ]
     },
     {
+      "key": "suonizy",
+      "name": "索尼(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "categories": [
+        "影视解说",
+        "国产剧",
+        "欧美剧",
+        "日剧",
+        "韩剧",
+        "海外剧",
+        "台剧",
+        "港剧",
+        "泰剧",
+        "喜剧片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动画片",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "港台动漫",
+        "国产动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
       "key": "liangzi",
       "name": "量子(采集)",
       "type": 1,
@@ -1061,6 +1098,22 @@
       "type": 3
     },
     {
+      "key": "csp_Nmys",
+      "name": "农民(FTY)",
+      "type": 3,
+      "api": "csp_Nmys",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/农民影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "蚂蚁(FTY)",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "ext": "http://rzys.xyz",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
       "key": "探探",
       "name": "影探(FTY)",
       "type": 3,
@@ -1069,41 +1122,11 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
     {
-      "key": "AppMr",
-      "name": "明明(FTY)",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
-    },
-    {
-      "key": "Cokemv",
-      "name": "可乐(FTY)",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
-    },
-    {
-      "key": "YQKAPP",
-      "name": "一起看(FTY)",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "ext": "https://api-aws.11ty.top",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
-    },
-    {
       "key": "Xinsj",
       "name": "新视觉(FTY)",
       "type": 3,
       "api": "csp_Xinsj",
       "ext": "https://www.6080yy3.com/",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民(FTY)",
-      "type": 3,
-      "api": "csp_Nmys",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/农民影视.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
     {
@@ -1120,6 +1143,28 @@
       "type": 3,
       "api": "csp_Ysgc",
       "ext": "https://www.ysgc1.cc/",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "Lib",
+      "name": "LIBVIO(FTY)",
+      "type": 3,
+      "api": "csp_Libvio",
+      "ext": "https://www.libvio.pro/",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "AppMr",
+      "name": "明明(FTY)",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "Cokemv",
+      "name": "可乐(FTY)",
+      "type": 3,
+      "api": "csp_Cokemv",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
     {
@@ -1143,6 +1188,35 @@
       "api": "csp_Kunyu77",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
+    {
+      "key": "kuaikan",
+      "name": "快看(FTY)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "Czsapp",
+      "name": "厂长(FTY)",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "两个BT(FTY)",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+    {
+      "key": "DiDuan",
+      "name": "低端(FTY)",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+    },
+
     {
       "key": "ng",
       "name": "南瓜(Cat)",

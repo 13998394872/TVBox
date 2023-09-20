@@ -49,6 +49,17 @@
       ]
     },
     {
+      "key": "suonizy",
+      "name": "索尼(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
       "key": "jisu",
       "name": "极速(采集)",
       "type": 1,
