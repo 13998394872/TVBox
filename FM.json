@@ -669,11 +669,11 @@
     },
     {
       "key": "suonizy",
-      "name": "索尼(采集)",
+      "name": "索尼资源(采集)",
       "type": 1,
       "searchable": 1,
       "changeable": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/at/json/",
       "categories": [
         "影视解说",
         "国产剧",
@@ -1062,9 +1062,16 @@
     {
       "key": "YingShi",
       "name": "影视TV",
-      "type": 3,
       "api": "csp_YingShi",
+      "type": 3,
       "ext": "socks5://192.168.50.1:23456"
+    },
+    {
+      "key": "DDMJ",
+      "name": "米酷视频",
+      "api": "csp_DDMJ",
+      "type": 3,
+      "ext": "http://103.222.188.33:6688"
     },
     {
       "key": "MmYs",
@@ -1082,6 +1089,18 @@
       "key": "Kuaikan",
       "name": "快看",
       "api": "csp_Kuaikan",
+      "type": 3
+    },
+    {
+      "key": "Mayiys",
+      "name": "蚂蚁影视",
+      "api": "csp_Mayiys",
+      "type": 3
+    },
+    {
+      "key": "Maolv",
+      "name": "毛驴",
+      "api": "csp_Maolv",
       "type": 3
     },
     {
@@ -1216,7 +1235,6 @@
       "api": "csp_Ddrk",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
-
     {
       "key": "ng",
       "name": "南瓜(Cat)",
