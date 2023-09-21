@@ -126,17 +126,6 @@
       ]
     },
     {
-      "key": "49zyw",
-      "name": "49(采集)",
-      "type": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/at/json",
-      "categories": [
-        "其他片"
-      ]
-    },
-    {
       "key": "Hanime",
       "name": "Hanime",
       "api": "csp_Hanime",
