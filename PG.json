@@ -37,6 +37,17 @@
       "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
+      "key": "suonizy",
+      "name": "索尼(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
       "key": "1080zy",
       "name": "1080(采集)",
       "type": 1,
@@ -46,17 +57,6 @@
       "categories": [
         "倫理片",
         "福利"
-      ]
-    },
-    {
-      "key": "suonizy",
-      "name": "索尼(采集)",
-      "type": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "categories": [
-        "伦理片"
       ]
     },
     {
