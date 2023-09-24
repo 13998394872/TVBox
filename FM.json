@@ -631,7 +631,7 @@
     },
     {
       "key": "kuaifan",
-      "name": "快帆资源(采集)",
+      "name": "快帆(采集)",
       "type": 1,
       "searchable": 1,
       "changeable": 1,
@@ -673,7 +673,7 @@
     },
     {
       "key": "suonizy",
-      "name": "索尼资源(采集)",
+      "name": "索尼(采集)",
       "type": 1,
       "searchable": 1,
       "changeable": 1,
