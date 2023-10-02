@@ -2848,6 +2848,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cokemv.js"
     },
     {
+      "key": "drpy_js_F7好看剧[V2]",
+      "name": "F7好看剧[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/F7好看剧[V2].js"
+    },
+    {
       "key": "drpy_js_Fun4K",
       "name": "Fun4K(js)",
       "type": 3,
@@ -2923,6 +2930,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/咕噜.js"
+    },
+    {
+      "key": "drpy_js_蘑菇",
+      "name": "蘑菇(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/蘑菇.js"
     },
     {
       "key": "drpy_js_光棍影院",
@@ -3161,6 +3175,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/555电影[V2].js"
+    },
+    {
+      "key": "drpy_js_555影视[飞]",
+      "name": "555影视[飞](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/555影视[飞].js"
     },
     {
       "key": "drpy_js_花猪影视[V2]",
