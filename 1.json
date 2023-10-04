@@ -35,34 +35,6 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/drpy.js"
     },
-    {
-      "key": "drpy_js_jsapi",
-      "name": "搜索 | jsapi(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/jsapi.js"
-    },
-    {
-      "key": "drpy_js_猫了个咪",
-      "name": "搜索 | 猫了个咪(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/猫了个咪.js"
-    },
-    {
-      "key": "drpy_js_跑TV",
-      "name": "搜索 | 跑TV[飞](js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/跑TV.js"
-    },
-    {
-      "key": "drpy_js_苹果爱微",
-      "name": "搜索 | 苹果爱微[飞](js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/苹果爱微.js"
-    },
 
 
 
