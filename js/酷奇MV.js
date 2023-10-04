@@ -12,7 +12,7 @@ var rule = {
     class_url:'1&2&3&4&5&6&7&8&9&10',
     headers:{
         'User-Agent':'MOBILE_UA'
-        'Cookie':'https://raw.githubusercontent.com/13998394872/TVBox/main/ext/酷奇MV_Cookie.json',
+        'Cookie':'https://raw.githubusercontent.com/13998394872/TVBox/main/ext/酷奇MV_Cookie.json'
     },
     timeout:5000,
     play_parse:true,
