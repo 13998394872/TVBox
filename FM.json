@@ -365,6 +365,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/AGE动漫.js"
     },
     {
+      "key": "drpy_js_NyaFun",
+      "name": "NyaFun(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/NyaFun.js"
+    },
+    {
       "key": "lf_p2p2_min",
       "name": "磁力搜索(LF)",
       "type": 3,
@@ -2820,6 +2827,139 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
+      "key": "drpy_js_539影视",
+      "name": "539影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/539影视.js"
+    },
+    {
+      "key": "drpy_js_Icio影视",
+      "name": "Icio影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/Icio影视.js"
+    },
+    {
+      "key": "drpy_js_城市电影",
+      "name": "城市电影(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/城市电影.js"
+    },
+    {
+      "key": "drpy_js_大豆",
+      "name": "大豆(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/大豆.js"
+    },
+    {
+      "key": "drpy_js_饭团影视",
+      "name": "饭团影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/饭团影视.js"
+    },
+    {
+      "key": "drpy_js_剧迷su",
+      "name": "剧迷su(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/剧迷su.js"
+    },
+    {
+      "key": "drpy_js_麦豆",
+      "name": "麦豆(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/麦豆.js"
+    },
+    {
+      "key": "drpy_js_七年影视",
+      "name": "七年影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/七年影视.js"
+    },
+    {
+      "key": "drpy_js_首播影院",
+      "name": "首播影院(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/首播影院.js"
+    },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "双十电影(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/双十电影.js"
+    },
+    {
+      "key": "drpy_js_天空影视",
+      "name": "天空影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/天空影视.js"
+    },
+    {
+      "key": "drpy_js_我爱电影网",
+      "name": "我爱电影网(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/我爱电影网.js"
+    },
+    {
+      "key": "drpy_js_星空影视",
+      "name": "星空影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/星空影视.js"
+    },
+    {
+      "key": "drpy_js_云镜影视",
+      "name": "云镜影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/云镜影视.js"
+    },
+    {
+      "key": "drpy_js_兰花影院",
+      "name": "兰花影院(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/兰花影院.js"
+    },
+    {
+      "key": "drpy_js_落攻阁影视",
+      "name": "落攻阁影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/落攻阁影视.js"
+    },
+    {
+      "key": "drpy_js_起飞影院",
+      "name": "起飞影院(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/起飞影院.js"
+    },
+    {
+      "key": "drpy_js_往往影视",
+      "name": "往往影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/往往影视.js"
+    },
+    {
+      "key": "drpy_js_我爱跟剧",
+      "name": "我爱跟剧(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/我爱跟剧.js"
+    },
+    {
       "key": "drpy_js_7喜影院",
       "name": "7喜影院(js)",
       "type": 3,
@@ -2832,6 +2972,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/69美剧[V2].js"
+    },
+    {
+      "key": "drpy_js_91free",
+      "name": "91free(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/91free.js"
     },
     {
       "key": "drpy_js_Auete",
@@ -3133,6 +3280,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱迪[V2].js"
+    },
+    {
+      "key": "drpy_js_爱迪影视",
+      "name": "爱迪影视(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱迪影视.js"
     },
     {
       "key": "drpy_js_鸭鸭[V2]",
