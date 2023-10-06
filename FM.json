@@ -1518,18 +1518,6 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yqktv_open.js"
     },
     {
-      "key": "yzys",
-      "name": "柚子影视(Cat)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yzys_open.js"
-    },
-    {
-      "key": "yrzj",
-      "name": "伊人追剧(Cat)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yrzj_open.js"
-    },
-    {
       "key": "bulei",
       "name": "布蕾(Cat)",
       "type": 3,
