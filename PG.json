@@ -193,16 +193,6 @@
       "ext": "$$$socks5://192.168.50.1:23456"
     },
     {
-      "key": "mtsp",
-      "name": "蜜桃(Cat)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/mtsp_open.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
       "key": "Miss",
       "name": "MissAV(Ym)",
       "api": "csp_Miss",
