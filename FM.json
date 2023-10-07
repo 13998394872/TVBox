@@ -4118,7 +4118,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Open_Token.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Open_Token.json"
     }
   ],
   "parses": [
