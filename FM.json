@@ -2018,6 +2018,14 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
+      "key": "csp_XBPQ_YYDS影院",
+      "name": "YYDS影院(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/YYDS影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+    {
       "key": "csp_XBPQ_爱欧乐影院",
       "name": "爱欧乐影院(XBPQ)",
       "type": 3,
@@ -2167,6 +2175,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/光棍影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+    {
+      "key": "csp_XBPQ_好戏网",
+      "name": "好戏网(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/好戏网.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
@@ -2567,6 +2583,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/亿视影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+    },
+    {
+      "key": "csp_XBPQ_真不卡影院",
+      "name": "真不卡影院(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/真不卡影院.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
