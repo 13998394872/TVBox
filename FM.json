@@ -1524,6 +1524,12 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/bulei_open.js"
     },
     {
+      "key": "tutu",
+      "name": "图图(Cat)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/tutu_open.js"
+    },
+    {
       "key": "sssp",
       "name": "速搜视频(Cat)",
       "type": 3,
