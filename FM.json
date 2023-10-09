@@ -776,7 +776,7 @@
       "key": "Wogg",
       "name": "📀玩偶哥哥",
       "api": "csp_Wogg",
-      "type": 3
+      "type": 3,
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
     },
     {
@@ -790,7 +790,7 @@
       "key": "Hdhive",
       "name": "📀影巢",
       "api": "csp_Hdhive",
-      "type": 3
+      "type": 3,
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
     },
     {
