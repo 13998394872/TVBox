@@ -1533,12 +1533,6 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/bulei_open.js"
     },
     {
-      "key": "tutu",
-      "name": "图图(Cat)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/tutu_open.js"
-    },
-    {
       "key": "sssp",
       "name": "速搜视频(Cat)",
       "type": 3,
@@ -3097,6 +3091,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/4K电影网.js"
     },
     {
+      "key": "drpy_js_4K视界[V2]",
+      "name": "4K视界[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/4K视界[V2].js"
+    },
+    {
       "key": "drpy_js_007影视",
       "name": "007影视(js)",
       "type": 3,
@@ -3216,11 +3217,25 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cokemv.js"
     },
     {
+      "key": "drpy_js_cokemv[V2]",
+      "name": "cokemv[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cokemv[V2].js"
+    },
+    {
       "key": "drpy_js_ddys",
       "name": "低端影视(js)",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ddys.js"
+    },
+    {
+      "key": "drpy_js_EMO蓝光[V2]",
+      "name": "EMO蓝光[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/EMO蓝光[V2].js"
     },
     {
       "key": "drpy_js_Fun4K",
@@ -3326,6 +3341,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/voflix.js"
+    },
+    {
+      "key": "drpy_js_阿布影院",
+      "name": "阿布影院(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/阿布影院.js"
     },
     {
       "key": "drpy_js_爱迪[V2]",
@@ -3530,6 +3552,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/花猫TV.js"
+    },
+    {
+      "key": "drpy_js_华乐影院",
+      "name": "华乐影院(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/华乐影院.js"
     },
     {
       "key": "drpy_js_金曼影视",
@@ -3824,6 +3853,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/热播之家.js"
+    },
+    {
+      "key": "drpy_js_热剧猫[V2]",
+      "name": "热剧猫[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/热剧猫[V2].js"
     },
     {
       "key": "drpy_js_人人影视",
