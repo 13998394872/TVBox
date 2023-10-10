@@ -194,20 +194,30 @@
     },
     {
       "key": "Miss",
-      "name": "MissAV(Ym)",
+      "name": "MissAV(Fm)",
       "api": "csp_Miss",
       "type": 3,
       "style": {
         "type": "rect",
         "ratio": 1.485
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/Ym1.jar"
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "Eighteen",
       "name": "18AV",
       "api": "csp_Eighteen",
       "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "18a",
+      "name": "18A(Cat)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/18a_open.js",
       "style": {
         "type": "rect",
         "ratio": 1.485
