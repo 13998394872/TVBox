@@ -102,9 +102,6 @@
       "name": "斗鱼直播(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/斗鱼直播.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
@@ -113,9 +110,6 @@
       "name": "虎牙直播(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/虎牙直播.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
@@ -131,21 +125,7 @@
       "name": "网易CC直播(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/网易CC直播.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQBiu_310直播",
-      "name": "310体育直播(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/310直播.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
@@ -153,10 +133,15 @@
       "name": "88看球(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/88看球.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQBiu_310直播",
+      "name": "310直播(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/310直播.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
@@ -618,11 +603,29 @@
       "name": "🧲BT天堂(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "searchable": 1,
       "timeout": 60,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/BT天堂.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
+    {
+      "key": "csp_XYQHiker_哔嘀影视",
+      "name": "🧲哔嘀影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "timeout": 60,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/哔嘀影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_蚂蚁4K",
+      "name": "🧲蚂蚁4K(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "timeout": 60,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/蚂蚁4K.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+
     {
       "key": "drpy_js_MP4电影",
       "name": "🧲MP4电影(PG)",
@@ -2627,394 +2630,27 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
-      "key": "csp_XYQHiker_55影视",
-      "name": "55影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/55影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_555影视",
-      "name": "555影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/555影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_乐鱼影视",
-      "name": "乐鱼影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/乐鱼影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_歪片星球",
-      "name": "歪片星球(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/歪片星球.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_98影院",
-      "name": "98影院(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/98影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_达达龟",
-      "name": "达达龟(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/达达龟.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_兄弟影视",
-      "name": "兄弟影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/兄弟影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_看一看影视",
-      "name": "看一看影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/看一看影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_乐猪影视",
-      "name": "乐猪影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/乐猪TV.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_voflixHD",
-      "name": "voflixHD(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/voflix HD.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_影视工场",
-      "name": "影视工场(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/影视工场.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_电影牛影院",
-      "name": "电影牛影院(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/电影牛影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_电影盒子",
-      "name": "电影盒子(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/电影盒子.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_耐看点播",
-      "name": "耐看点播(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/耐看点播.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_疯狗影视",
-      "name": "疯狗影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/疯狗影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_爱看影视",
-      "name": "爱看影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/爱看影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_子子影视",
-      "name": "子子影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/子子影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_素白白影视",
-      "name": "素白白影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/素白白影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_COKEMV影院",
-      "name": "COKEMV影院(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/COKEMV影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_人人影视PRO",
-      "name": "人人影视PRO(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/人人影视PRO.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_MayiTube",
-      "name": "MayiTube(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/MayiTube.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_宝仙HD",
-      "name": "宝仙HD(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/宝仙HD.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_秋霞电影",
-      "name": "秋霞电影(HM1)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/秋霞电影.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_在线之家",
-      "name": "在线之家(HM1)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/在线之家.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_量子影视",
-      "name": "量子影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/量子影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_红领巾影院",
-      "name": "红领巾影院(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/红领巾影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_臭蛋蛋影视",
-      "name": "臭蛋蛋影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/臭蛋蛋影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_农民影视",
-      "name": "‍农民影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/农民影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_奇趣影视",
-      "name": "奇趣影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/奇趣影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_348电影网",
-      "name": "348电影网(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/348电影网.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_深蓝影视",
-      "name": "深蓝影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/深蓝影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_干饭影视",
-      "name": "干饭影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/干饭影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_秋霞电影网",
-      "name": "秋霞电影网(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/秋霞电影网.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_奈飞中文",
-      "name": "奈飞中文(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/奈飞中文.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_鸭奈飞影视",
-      "name": "鸭奈飞影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/鸭奈飞影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_蓝光影院",
-      "name": "蓝光影院(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/蓝光影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_影渣渣影视",
-      "name": "影渣渣影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/影渣渣影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_l0l影院",
-      "name": "l0l影院(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/l0l影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_锐行加速影院",
-      "name": "锐行加速影院(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/锐行加速影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_異世界動漫",
-      "name": "異世界動漫(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/異世界動漫.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQBiu_骚火电影网",
-      "name": "骚火电影网(XYQ)",
+      "key": "csp_XYQBiu_1985电影网",
+      "name": "1985电影网(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/骚火电影网.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/1985电影网.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
-      "key": "csp_XYQBiu_骚火电影VIP",
-      "name": "骚火电影VIP(XYQ)",
+      "key": "csp_XYQBiu_Libvio",
+      "name": "Libvio(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/骚火电影VIP.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/libvio.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQBiu_TVB云播",
+      "name": "TVB云播(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/TVB云播.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
@@ -3022,9 +2658,6 @@
       "name": "VIP电影(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/VIP电影.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
@@ -3033,32 +2666,7 @@
       "name": "大师兄影视(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/大师兄影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQBiu_莫扎兔",
-      "name": "莫扎兔影视(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/莫扎兔.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQBiu_七小时影院",
-      "name": "七小时影院(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/七小时影院.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
@@ -3066,21 +2674,415 @@
       "name": "花猫TV(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/花猫TV.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
-      "key": "csp_XYQBiu_TVB云播",
-      "name": "TVB云播(XYQ)",
+      "key": "csp_XYQBiu_七小时影院",
+      "name": "七小时影院(XYQ)",
       "type": 3,
       "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/TVB云播.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/七小时影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQBiu_骚火电影VIP",
+      "name": "骚火电影VIP(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/骚火电影VIP.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQBiu_骚火电影网",
+      "name": "骚火电影网(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQBiu/骚火电影网.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_55影视",
+      "name": "55影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/55影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_98影院",
+      "name": "98影院(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/98影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_348电影网",
+      "name": "348电影网(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/348电影网.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_555影视",
+      "name": "555影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/555影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_A8影视",
+      "name": "A8影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/A8影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_CokemvFun",
+      "name": "CokemvFun(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/CokemvFun.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_COKEMV影院",
+      "name": "COKEMV影院(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/COKEMV影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_GimyTV劇迷",
+      "name": "GimyTV劇迷(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/GimyTV劇迷.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_l0l影院",
+      "name": "l0l影院(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/l0l影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_MayiTube",
+      "name": "MayiTube(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/MayiTube.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_MOFLIX影院",
+      "name": "MOFLIX影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/MOFLIX影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_Vidhub视频库",
+      "name": "Vidhub视频库(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/Vidhub视频库.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_voflixHD",
+      "name": "voflixHD(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/voflix HD.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_爱看影视",
+      "name": "爱看影视(真不卡)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/爱看影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_爱看影院",
+      "name": "爱看影院(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/爱看影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_宝仙HD",
+      "name": "宝仙HD(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/宝仙HD.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_厂长影视",
+      "name": "厂长影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/厂长影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_臭蛋蛋影视",
+      "name": "臭蛋蛋影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/臭蛋蛋影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_达达龟",
+      "name": "达达龟(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/达达龟.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_电影盒子",
+      "name": "电影盒子(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/电影盒子.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_电影牛影院",
+      "name": "电影牛影院(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/电影牛影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_疯狗影视",
+      "name": "疯狗影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/疯狗影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_干饭影视",
+      "name": "干饭影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/干饭影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_好戏网",
+      "name": "好戏网(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/好戏网.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_红领巾影院",
+      "name": "红领巾影院(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/红领巾影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_看一看影视",
+      "name": "看一看影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/看一看影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_蓝光影院",
+      "name": "蓝光影院(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/蓝光影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_乐鱼影视",
+      "name": "乐鱼影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/乐鱼影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_乐猪影视",
+      "name": "乐猪影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/乐猪TV.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_量子影视",
+      "name": "量子影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/量子影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_迷迷剧",
+      "name": "迷迷剧(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/迷迷剧.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_奈飞中文",
+      "name": "奈飞中文(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/奈飞中文.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_耐看点播",
+      "name": "耐看点播(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/耐看点播.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_农民影视",
+      "name": "‍农民影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/农民影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_七新影视",
+      "name": "七新影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/七新影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_奇趣影视",
+      "name": "奇趣影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/奇趣影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_秋霞电影",
+      "name": "秋霞电影(HM1)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/秋霞电影.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_秋霞电影网",
+      "name": "秋霞电影网(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/秋霞电影网.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_锐行加速影院",
+      "name": "锐行加速影院(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/锐行加速影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_深蓝影视",
+      "name": "深蓝影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/深蓝影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_素白白影视",
+      "name": "素白白影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/素白白影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_歪片星球",
+      "name": "歪片星球(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/歪片星球.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_兄弟影视",
+      "name": "兄弟影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/兄弟影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_鸭奈飞影视",
+      "name": "鸭奈飞影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/鸭奈飞影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_影视工场",
+      "name": "影视工场(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/影视工场.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_影渣渣影视",
+      "name": "影渣渣影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/影渣渣影视.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_在线之家",
+      "name": "在线之家(HM1)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/在线之家.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_子子影视",
+      "name": "子子影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/子子影视.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {

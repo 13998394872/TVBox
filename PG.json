@@ -224,6 +224,18 @@
       }
     },
     {
+      "key": "csp_XYQHiker_18AV",
+      "name": "18AV(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/18AV.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
       "key": "Jable",
       "name": "Jable",
       "api": "csp_Jable",
