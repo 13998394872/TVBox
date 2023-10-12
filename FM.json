@@ -3492,6 +3492,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/独播库[飞].js"
     },
     {
+      "key": "drpy_js_短剧网",
+      "name": "短剧网(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/短剧网.js"
+    },
+    {
       "key": "drpy_js_多瑙影视",
       "name": "多瑙影视(js)",
       "type": 3,
@@ -3540,6 +3547,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/海兔影院.js"
+    },
+    {
+      "key": "drpy_js_吼吼[V2]",
+      "name": "吼吼[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/吼吼[V2].js"
     },
     {
       "key": "drpy_js_吼吼[飞]",
@@ -3841,6 +3855,13 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/秋霞影视.js"
+    },
+    {
+      "key": "drpy_js_曲奇影视[V2]",
+      "name": "曲奇影视[V2](js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/曲奇影视[V2].js"
     },
     {
       "key": "drpy_js_热播库",
