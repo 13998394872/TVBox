@@ -560,6 +560,14 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/lf_p2p2_min.js"
     },
     {
+      "key": "4KHDR",
+      "name": "🧲📀4KHDR",
+      "type": 3,
+      "timeout": 60,
+      "api": "csp_FourKHDR",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
+    },
+    {
       "key": "Xunlei8",
       "name": "🧲迅雷电影天堂",
       "api": "csp_Xunlei8",
@@ -625,7 +633,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/蚂蚁4K.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
-
     {
       "key": "drpy_js_MP4电影",
       "name": "🧲MP4电影(PG)",
@@ -780,21 +787,29 @@
       "name": "📀玩偶哥哥",
       "api": "csp_Wogg",
       "type": 3,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
       "name": "📀玩偶表哥",
       "api": "csp_Wobg",
       "type": 3,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
     },
     {
       "key": "Hdhive",
       "name": "📀影巢",
       "api": "csp_Hdhive",
       "type": 3,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
+    },
+    {
+      "key": "校长影视",
+      "name": "📀校长影视",
+      "type": 3,
+      "timeout": 30,
+      "api": "csp_XiaoZhang",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "drpy_js_小纸条",
@@ -1272,12 +1287,13 @@
       ]
     },
     {
-      "key": "drpy_js_荐片",
-      "name": "荐片(js)",
+      "key": "csp_XPath_音范丝",
+      "name": "音范丝(XP)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/荐片.js",
-      "playerType": "1"
+      "api": "csp_XPath",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XP/音范丝.json"
     },
     {
       "key": "drpy_js_ikanbot3",
@@ -1301,13 +1317,19 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱看机器人.js"
     },
     {
-      "key": "csp_XPath_音范丝",
-      "name": "音范丝(XP)",
+      "key": "drpy_js_荐片",
+      "name": "荐片(js)",
       "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XP/音范丝.json"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/荐片.js",
+      "playerType": "1"
+    },
+    {
+      "key": "Jianpian",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/荐片.json"
     },
     {
       "key": "BLSGod",
