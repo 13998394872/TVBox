@@ -794,22 +794,30 @@
       "name": "📀玩偶表哥",
       "api": "csp_Wobg",
       "type": 3,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/"
     },
     {
       "key": "Hdhive",
       "name": "📀影巢",
       "api": "csp_Hdhive",
       "type": 3,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
     },
     {
-      "key": "校长影视",
+      "key": "XiaoZhang",
       "name": "📀校长影视",
       "type": 3,
       "timeout": 30,
       "api": "csp_XiaoZhang",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+    },
+    {
+      "key": "TZFile",
+      "name": "📀团长资源",
+      "type": 3,
+      "timeout": 30,
+      "api": "csp_TZFile",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
     },
     {
       "key": "drpy_js_小纸条",
@@ -1359,6 +1367,18 @@
       "type": 3
     },
     {
+      "key": "Jiohub",
+      "name": "JOJO影视",
+      "api": "csp_Jiohub",
+      "type": 3
+    },
+    {
+      "key": "Jojo",
+      "name": "JOJO",
+      "api": "csp_Jojo",
+      "type": 3
+    },
+    {
       "key": "Czsapp",
       "name": "厂长",
       "api": "csp_Czsapp",
@@ -1394,6 +1414,12 @@
       "key": "Star",
       "name": "星星",
       "api": "csp_Star",
+      "type": 3
+    },
+    {
+      "key": "Sp360",
+      "name": "360影视",
+      "api": "csp_Sp360",
       "type": 3
     },
     {
