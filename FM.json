@@ -2845,6 +2845,14 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
+      "key": "csp_XYQHiker_JOJO",
+      "name": "JOJO(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/JOJO.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
       "key": "csp_XYQHiker_l0l影院",
       "name": "l0l影院(HM2)",
       "type": 3,
@@ -2978,6 +2986,14 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/红领巾影院.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+    },
+    {
+      "key": "csp_XYQHiker_极客影院",
+      "name": "极客影院(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/极客影院.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
