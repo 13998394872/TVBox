@@ -820,6 +820,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
     },
     {
+      "key": "Ppxzy",
+      "name": "📀皮皮虾",
+      "type": 3,
+      "timeout": 30,
+      "api": "csp_Ppxzy",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+    },
+    {
       "key": "drpy_js_小纸条",
       "name": "📀小纸条(js)",
       "type": 3,
