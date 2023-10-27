@@ -794,7 +794,7 @@
       "name": "📀玩偶表哥",
       "api": "csp_Wobg",
       "type": 3,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/$$$null"
     },
     {
       "key": "Hdhive",
@@ -802,6 +802,14 @@
       "api": "csp_Hdhive",
       "type": 3,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+    },
+    {
+      "key": "Ppxzy",
+      "name": "📀皮皮虾",
+      "type": 3,
+      "timeout": 30,
+      "api": "csp_Ppxzy",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ppxzy.net/$$$null"
     },
     {
       "key": "XiaoZhang",
@@ -817,14 +825,6 @@
       "type": 3,
       "timeout": 30,
       "api": "csp_TZFile",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "📀皮皮虾",
-      "type": 3,
-      "timeout": 30,
-      "api": "csp_Ppxzy",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
     },
     {
