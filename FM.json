@@ -281,6 +281,12 @@
       "playerType": "2"
     },
     {
+      "key": "Kugou",
+      "name": "酷狗",
+      "api": "csp_Kugou",
+      "type": 3
+    },
+    {
       "key": "drpy_js_种子音乐",
       "name": "种子音乐(js)",
       "type": 3,
@@ -1430,12 +1436,6 @@
       "key": "Star",
       "name": "星星",
       "api": "csp_Star",
-      "type": 3
-    },
-    {
-      "key": "Kugou",
-      "name": "酷狗",
-      "api": "csp_Kugou",
       "type": 3
     },
     {
