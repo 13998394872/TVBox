@@ -29,11 +29,11 @@
   ],
   "sites": [
     {
-      "key": "豆豆",
-      "name": "豆瓣(FTY)",
+      "key": "Douban",
+      "name": "豆瓣",
       "type": 3,
-      "api": "csp_DouDou",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
+      "api": "csp_Douban",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/豆瓣.json"
     },
     {
       "key": "lf_search3_min",
@@ -566,6 +566,14 @@
       "timeout": 60,
       "api": "csp_FourKHDR",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
+    },
+    {
+      "key": "Xb6v",
+      "name": "🧲新版6V",
+      "type": 3,
+      "timeout": 60,
+      "api": "csp_Xb6v",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$http://www.xb6v.com$$$null"
     },
     {
       "key": "Xunlei8",
@@ -1422,6 +1430,12 @@
       "key": "Star",
       "name": "星星",
       "api": "csp_Star",
+      "type": 3
+    },
+    {
+      "key": "Kugou",
+      "name": "酷狗",
+      "api": "csp_Kugou",
       "type": 3
     },
     {
