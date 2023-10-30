@@ -1413,6 +1413,12 @@
       "type": 3
     },
     {
+      "key": "NanGua",
+      "name": "南瓜",
+      "api": "csp_NanGua",
+      "type": 3
+    },
+    {
       "key": "Mayiys",
       "name": "蚂蚁影视",
       "api": "csp_Mayiys",
