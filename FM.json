@@ -3951,6 +3951,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/量子影视.js"
     },
     {
+      "key": "drpy_js_量子资源",
+      "name": "量子资源(js)",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/量子资源.js"
+    },
+    {
       "key": "drpy_js_凌云",
       "name": "凌云(js)",
       "type": 3,
