@@ -129,6 +129,12 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
+      "key": "88kanqiu",
+      "name": "88看球",
+      "api": "csp_Kanqiu",
+      "type": 3
+    },
+    {
       "key": "csp_XYQBiu_88看球",
       "name": "88看球(XYQ)",
       "type": 3,
