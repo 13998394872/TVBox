@@ -1418,6 +1418,13 @@
       "type": 3
     },
     {
+      "key": "Bdys_spider",
+      "name": "哔滴",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "ext": "https://www.bdys03.com/"
+    },
+    {
       "key": "Mayiys",
       "name": "蚂蚁影视",
       "api": "csp_Mayiys",
