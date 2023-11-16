@@ -28,56 +28,81 @@
     }
   ],
   "sites": [
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-    },
-    {
-      "key": "Ali",
-      "name": "Ali",
-      "type": 3,
-      "api": "csp_Ali"
-    },
-    {
-      "key": "Init",
-      "name": "Init",
-      "type": 3,
-      "api": "csp_Init"
-    },
-    {
-      "key": "Iqiyi",
-      "name": "Iqiyi",
-      "type": 3,
-      "api": "csp_Iqiyi"
-    },
-    {
-      "key": "JSDemo",
-      "name": "JSDemo",
-      "type": 3,
-      "api": "csp_JSDemo"
-    },
+      {
+        "key": "555dy",
+        "name": "555电影",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/555dy_open.js"
+      },
+      {
+        "key": "czzy",
+        "name": "厂长资源",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/czzy_open.js"
+      },
+      {
+        "key": "ikanbot",
+        "name": "爱看机器人",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"
+      },
+      {
+        "key": "kkys",
+        "name": "快看影视",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/kkys_open.js"
+      },
+      {
+        "key": "kunyu77",
+        "name": "酷云77",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/kunyu77_open.js"
+      },
+      {
+        "key": "ng",
+        "name": "南瓜",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ng_open.js"
+      },
+      {
+        "key": "subaibai",
+        "name": "素白白",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/subaibai_open.js"
+      },
+      {
+        "key": "yqktv",
+        "name": "一起看",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yqktv_open.js"
+      },
+      {
+        "key": "yzys",
+        "name": "柚子影视",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yzys_open.js"
+      },
+
     {
       "key": "Kanqiu",
-      "name": "Kanqiu",
+      "name": "88看球",
       "type": 3,
       "api": "csp_Kanqiu"
     },
     {
       "key": "MeijuTT",
-      "name": "MeijuTT",
+      "name": "天天美剧",
       "type": 3,
       "api": "csp_MeijuTT"
     },
     {
-      "key": "Notice",
-      "name": "Notice",
+      "key": "Hudie",
+      "name": "蝴蝶",
       "type": 3,
-      "api": "csp_Notice"
+      "api": "csp_Hudie"
     },
+
+
     {
       "key": "PanSearch",
       "name": "PanSearch",
@@ -85,46 +110,23 @@
       "api": "csp_PanSearch"
     },
     {
-      "key": "Proxy",
-      "name": "Proxy",
+      "key": "Iqiyi",
+      "name": "爱奇艺",
       "type": 3,
-      "api": "csp_Proxy"
+      "api": "csp_Iqiyi"
     },
     {
       "key": "QQ",
-      "name": "QQ",
+      "name": "腾讯",
       "type": 3,
       "api": "csp_QQ"
     },
     {
-      "key": "StringUtil",
-      "name": "StringUtil",
-      "type": 3,
-      "api": "csp_StringUtil"
-    },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV"
-    },
-    {
-      "key": "XiaoZhiTiao",
-      "name": "XiaoZhiTiao",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao"
-    },
-    {
       "key": "YouKu",
-      "name": "YouKu",
+      "name": "优酷",
       "type": 3,
       "api": "csp_YouKu"
     },
-
-
-
-
-
 
     {
       "key": "push_agent",
