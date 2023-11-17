@@ -45,32 +45,7 @@
       "changeable": 0
     },
 
-    {
-      "key": "csp_xp_qiumi",
-      "name": "Jrs球迷(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XP/JRKAN直播.json"
-    },
-    {
-      "key": "csp_XPath_企鹅体育",
-      "name": "企鹅体育(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XP/企鹅体育.json"
-    },
+
 
     {
       "key": "Local",
@@ -92,7 +67,7 @@
       "name": "磁力熊[js]|索引",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cilixiongp.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cilixiong.js",
       "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
@@ -1337,7 +1312,7 @@
       "name": "极影网[js]|磁",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/jiyingwp.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/jiyingw.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
