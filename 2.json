@@ -98,6 +98,40 @@
       "timeout": 30
     },
     {
+      "key": "csp_Iqiyi",
+      "name": "爱奇艺┃弹幕",
+      "type": 3,
+      "api": "csp_Iqiyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "csp_QQ",
+      "name": "腾讯┃弹幕",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "csp_YouKu",
+      "name": "优酷┃弹幕",
+      "type": 3,
+      "api": "csp_YouKu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+
+    {
       "key": "888解忧愁",
       "name": "888解忧愁",
       "type": 4,
