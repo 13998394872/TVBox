@@ -95,9 +95,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "danmu": true
-      },
       "timeout": 30
     },
     {
