@@ -1580,7 +1580,6 @@
       "playerType": 2,
       "ext": "LV06Bwf1IqCvCECepSCn4qV2bM4V8EBht1OE3hBzrH9GyAa8/a41aynh8h0yAhuYumDP/bS0DA1QnbmPRQKyikp05fgrDnFaxHJFP287vblsUg3Q5QwZlm5WEp4xp0L/HjE+V5fYmLwo8aZAblR9YJvgraRiCBewvH9+cWN+TR7iTBufOdDXsDZpY4vUy6XvHMx2+qkgXCSU5yYvuErBsEDKS2PuGmDmHBpq5W6xZ3xHZZQfZreVaKwt8LElzh5RaVKRn5NbEChpQt2C0wqPmedbjpgu/GYH/LLceQUK5w0LMUZKBAQo6PTwgSgkzolcJnzperBpnIhC7uY+n8a3D9UZB8KDx+wsqai9M9bH5d5+/3flwaYMEVRmmOMgtGxAQr0wqhFltPCEtDvnHltBj6MZitjQZV1Tta0nwoP2awf2R3JIYwm7S5ph4m8RWts/SGrD/n9NrmRnB5rLa0M6VHMGp+s/kXzHmul50DmOXQryhMOg+V+z5kFucczLSCLBur4bqaVuAKo57Wcn1Tle61LOpqWBwEL3m9nZ9ht3vrIncP3dRvwAvgos1eGhlQuQJX9cyR7nV5D8nnEGDQ0nFnDx1Ub6gK48gpItiVE3657JLlaq/d1NszzvxwREtCnOpfFWT03o3VHwR9tDPsz7L2wj6BQr7Zo7X/Vqu4bbL2CI="
     },
-
     {
       "key": "视觉",
       "name": "新视觉(Appto)",
@@ -1790,22 +1789,46 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/fty.jar"
     },
     {
+      "key": "ikanbot",
+      "name": "爱看机器人(Cat)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"
+    },
+    {
+      "key": "bulei",
+      "name": "布蕾(Cat)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/bulei_open.js"
+    },
+    {
+      "key": "yzys",
+      "name": "柚子影视(Cat)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yzys_open.js"
+    },
+    {
+      "key": "yrzj",
+      "name": "伊人追剧(Cat)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yrzj_open.js"
+    },
+    {
       "key": "555dy",
       "name": "555电影(Cat)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/555dy_open.js"
     },
     {
-      "key": "subaibai",
-      "name": "素白白(Cat)",
+      "key": "czzy",
+      "name": "厂长资源(Cat)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/subaibai_open.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/czzy_open.js"
     },
     {
-      "key": "yqktv",
-      "name": "一起看(Cat)",
+      "key": "kunyu77",
+      "name": "酷云77(Cat)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yqktv_open.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/kunyu77_open.js"
     },
     {
       "key": "csp_XBPQ_JOJO",
