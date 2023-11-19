@@ -1387,6 +1387,14 @@
       "type": 3
     },
     {
+      "key": "Hudie",
+      "name": "蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
+    {
       "key": "Bdys_spider",
       "name": "哔滴",
       "api": "csp_Bdys01",
@@ -1793,24 +1801,6 @@
       "name": "爱看机器人(Cat)",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"
-    },
-    {
-      "key": "bulei",
-      "name": "布蕾(Cat)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/bulei_open.js"
-    },
-    {
-      "key": "yzys",
-      "name": "柚子影视(Cat)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yzys_open.js"
-    },
-    {
-      "key": "yrzj",
-      "name": "伊人追剧(Cat)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/yrzj_open.js"
     },
     {
       "key": "555dy",
