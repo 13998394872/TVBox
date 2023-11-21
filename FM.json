@@ -3766,6 +3766,13 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/麻花影视.js"
     },
     {
+      "key": "drpy_js_毛子[V2]",
+      "name": "毛子[V2](js)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/毛子[V2].js"
+    },
+    {
       "key": "drpy_js_美剧网",
       "name": "美剧网(js)",
       "type": 3,
