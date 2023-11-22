@@ -1,11 +1,11 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/pg.jar",
+  "spider": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/pg.jar",
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
     {
       "name": "IPV6专用",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -138,8 +138,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/玩偶姐姐.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/玩偶姐姐.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_麻豆传媒",
@@ -150,8 +150,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/麻豆传媒.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/麻豆传媒.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "JavBus",
@@ -201,7 +201,7 @@
       "key": "18a",
       "name": "18A(Cat)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/18a_open.js",
+      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/18a_open.js",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -216,8 +216,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/18AV.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XYQHiker/18AV.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xyq.jar"
     },
     {
       "key": "Jable",
@@ -238,8 +238,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/Jable.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/Jable.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_GAOAA",
@@ -250,8 +250,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/GAOAA.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/GAOAA.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_banan",
@@ -262,8 +262,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/banan.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/banan.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_朱古力",
@@ -274,8 +274,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/朱古力.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/朱古力.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_色花堂",
@@ -286,8 +286,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/色花堂.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/色花堂.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_左临诱射",
@@ -298,8 +298,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/左临诱射.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/左临诱射.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_XBPQ_新香蕉AV解说",
@@ -310,8 +310,8 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/新香蕉AV解说.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/新香蕉AV解说.json",
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"
     },
     {
       "key": "csp_xBPQ_超清",
@@ -323,7 +323,7 @@
         "ratio": 1.485
       },
       "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\",\"分类\":\"亚洲AV$2k-yazhou#欧美AV$2k-oumei#超清传媒$2k-chaoqingchuanmei#超清三级$2k-chaoqingsanji#自拍偷拍$2k-zipaitoupai#直播录播$2k-zhibolubo#3D动漫$2k-3Ddongman#乱伦人妻$2k-luanlunrenqi#丝袜制服$2k-siwazhifu#SM另类$2k-SMlinglei\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/Ym2.jar"
+      "jar": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/Ym2.jar"
     },
     {
       "key": "52zyapi.com",
@@ -1038,7 +1038,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Open_Token.json"
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Open_Token.json"
     }
   ],
   "parses": [
