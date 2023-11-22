@@ -3,25 +3,9 @@
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
     {
-      "name": "晴天",
+      "name": "IPV6专用",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/晴天.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "太阳",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/太阳.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "肥猫",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/肥猫.txt",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
