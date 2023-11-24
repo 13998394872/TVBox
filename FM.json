@@ -752,9 +752,13 @@
     },
     {
       "key": "YiSo",
-      "name": "📀易搜",
+      "name": "易搜 | 阿里搜",
+      "type": 3,
       "api": "csp_YiSo",
-      "type": 3
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
     },
     {
       "key": "PanSou",
