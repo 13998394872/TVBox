@@ -8,7 +8,7 @@
       "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "sites": [
