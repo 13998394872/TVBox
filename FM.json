@@ -3172,6 +3172,13 @@
       "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/348电影网.js"
     },
     {
+      "key": "drpy_js_532影院[V2]",
+      "name": "532影院[V2](js)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/532影院[V2].js"
+    },
+    {
       "key": "drpy_js_555电影",
       "name": "555电影(js)",
       "type": 3,
@@ -3380,6 +3387,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱壹帆[飞].js"
+    },
+    {
+      "key": "drpy_js_宝片[V2]",
+      "name": "宝片[V2](js)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/js/宝片[V2].js"
     },
     {
       "key": "drpy_js_北川",
