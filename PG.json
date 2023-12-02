@@ -1,11 +1,11 @@
 {
-  "spider": "https://raw.githubusercontent.com/13998394872/TVBox/main/jar/pg.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/pg.jar",
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
     {
       "name": "IPV6专用",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/tv/IPV6.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -20,7 +20,7 @@
       "searchable": 0,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/豆瓣.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/豆瓣.json"
     },
     {
       "key": "drpy_js_cilixiong",
@@ -29,8 +29,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/cilixiong.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/cilixiong.js"
     },
     {
       "key": "AList",
@@ -40,7 +40,7 @@
       "searchable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alist.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alist.json"
     },
     {
       "key": "bili",
@@ -55,7 +55,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "json": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/bili.json",
+        "json": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/bili.json",
         "type": "知名UP主#相声小品#解说#电影#电视剧#荒野求生#说案#美食#食谱",
         "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
       }
@@ -104,7 +104,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/"
     },
     {
       "key": "Hdhive",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "Ppxzy",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ppxzy.net/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ppxzy.net/"
     },
     {
       "key": "XiaoZhang",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "TZFile",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "Xb6v",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$http://www.xb6v.com"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$http://www.xb6v.com"
     },
     {
       "key": "FourKHDR",
@@ -174,7 +174,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
     },
     {
       "key": "drpy_js_rrdyw",
@@ -183,8 +183,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/rrdyw.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/rrdyw.js"
     },
     {
       "key": "drpy_js_libvio",
@@ -193,8 +193,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/libvio.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/libvio.js"
     },
     {
       "key": "drpy_js_kkpans",
@@ -203,8 +203,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/kkpans.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/kkpans.js"
     },
     {
       "key": "drpy_js_dydhhy",
@@ -213,8 +213,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/dydhhy.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/dydhhy.js"
     },
     {
       "key": "drpy_js_ddys",
@@ -223,8 +223,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/ddys.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ddys.js"
     },
     {
       "key": "555dy_open",
@@ -233,7 +233,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/555dy_open.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/555dy_open.js"
     },
     {
       "key": "czzy_open",
@@ -242,7 +242,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/czzy_open.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/czzy_open.js"
     },
     {
       "key": "kunyu77_open",
@@ -251,7 +251,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/kunyu77_open.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/kunyu77_open.js"
     },
     {
       "key": "ikanbot_open",
@@ -260,28 +260,28 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/ikanbot_open.js"
     },
     {
       "key": "drpy_js_ikanbot3",
       "name": "爱看机器人3(js)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/ikanbot3.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ikanbot3.js"
     },
     {
       "key": "drpy_js_ikanbot2",
       "name": "爱看机器人2(js)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/ikanbot2.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ikanbot2.js"
     },
     {
       "key": "drpy_js_爱看机器人",
       "name": "爱看机器人1(js)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱看机器人.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/爱看机器人.js"
     },
     {
       "key": "Jianpian",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/荐片.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/荐片.json"
     },
     {
       "key": "Hudie",
@@ -430,7 +430,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/XP/音范丝.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/XP/音范丝.json"
     },
     {
       "key": "TVB云播",
@@ -1088,8 +1088,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/meijumi.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/meijumi.js"
     },
     {
       "key": "drpy_js_xb6v",
@@ -1098,8 +1098,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/xb6v.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/xb6v.js"
     },
     {
       "key": "drpy_js_97tvs",
@@ -1108,8 +1108,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/97tvs.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/97tvs.js"
     },
     {
       "key": "drpy_js_mp4us",
@@ -1118,8 +1118,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/mp4us.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/mp4us.js"
     },
     {
       "key": "drpy_js_dygang",
@@ -1128,8 +1128,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/dygang.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/dygang.js"
     },
     {
       "key": "drpy_js_jiyingw",
@@ -1138,8 +1138,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/jiyingw.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/jiyingw.js"
     },
     {
       "key": "drpy_js_kuba",
@@ -1148,8 +1148,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/kuba.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/kuba.js"
     },
     {
       "key": "drpy_js_meow",
@@ -1158,8 +1158,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/meow.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/meow.js"
     },
     {
       "key": "drpy_js_yyets",
@@ -1168,8 +1168,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
     },
     {
       "key": "Gitcafe",
@@ -1179,7 +1179,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "Dovx",
@@ -1189,7 +1189,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "Zhaozy",
@@ -1199,7 +1199,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "UpYun",
@@ -1209,7 +1209,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "PanSou",
@@ -1219,7 +1219,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "PanSearch",
@@ -1229,7 +1229,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     },
     {
       "key": "YiSo",
@@ -1239,7 +1239,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
     },
     {
       "key": "drpy_js_funletu",
@@ -1248,8 +1248,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/funletu.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/funletu.js"
     },
     {
       "key": "drpy_js_aipanso",
@@ -1258,8 +1258,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/aipanso.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/aipanso.js"
     },
     {
       "key": "drpy_js_qimiao",
@@ -1268,8 +1268,8 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "api": "https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/js/qimiao.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/qimiao.js"
     },
     {
       "key": "csp_Sp360",
@@ -1315,7 +1315,7 @@
       "searchable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
     }
   ],
   "parses": [
