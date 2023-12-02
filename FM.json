@@ -555,7 +555,7 @@
       "type": 3,
       "timeout": 60,
       "api": "csp_FourKHDR",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
     },
     {
       "key": "Xb6v",
@@ -563,7 +563,7 @@
       "type": 3,
       "timeout": 60,
       "api": "csp_Xb6v",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$http://www.xb6v.com$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$http://www.xb6v.com$$$null"
     },
     {
       "key": "Xunlei8",
@@ -758,7 +758,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
     },
     {
       "key": "PanSou",
@@ -789,21 +789,21 @@
       "name": "📀玩偶哥哥",
       "api": "csp_Wogg",
       "type": 3,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wogg.xyz/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://wogg.xyz/"
     },
     {
       "key": "Wobg",
       "name": "📀玩偶表哥",
       "api": "csp_Wobg",
       "type": 3,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://wobge.run.goorm.io/$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://wobge.run.goorm.io/$$$null"
     },
     {
       "key": "Hdhive",
       "name": "📀影巢",
       "api": "csp_Hdhive",
       "type": 3,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$null"
     },
     {
       "key": "Ppxzy",
@@ -811,7 +811,7 @@
       "type": 3,
       "timeout": 30,
       "api": "csp_Ppxzy",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$https://ppxzy.net/$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ppxzy.net/$$$null"
     },
     {
       "key": "XiaoZhang",
@@ -819,7 +819,7 @@
       "type": 3,
       "timeout": 30,
       "api": "csp_XiaoZhang",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$null"
     },
     {
       "key": "TZFile",
@@ -827,7 +827,7 @@
       "type": 3,
       "timeout": 30,
       "api": "csp_TZFile",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$null"
     },
     {
       "key": "drpy_js_小纸条",
@@ -4306,7 +4306,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/Token_Quark.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     }
   ],
   "parses": [
