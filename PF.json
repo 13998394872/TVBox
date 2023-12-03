@@ -1032,6 +1032,23 @@
       ]
     },
     {
+      "key": "配置中心",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "应用商店",
+      "name": "应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
