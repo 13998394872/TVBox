@@ -97,6 +97,15 @@
       "timeout": 60
     },
     {
+      "key": "Duanju",
+      "name": "短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
       "key": "Wogg",
       "name": "玩偶哥哥 | 网盘",
       "type": 3,
@@ -661,7 +670,7 @@
     },
     {
       "key": "haiwaikan",
-      "name": "海外看",
+      "name": "海外看(采集)",
       "type": 1,
       "searchable": 1,
       "changeable": 1,
