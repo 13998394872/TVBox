@@ -26,6 +26,7 @@
       "key": "drpy_js_cilixiong",
       "name": "磁力熊(js) | 索引",
       "type": 3,
+      "playerType":"1",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
@@ -312,6 +313,28 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
+    {
+      "key": "Hmys",
+      "name": "河马",
+      "type": 3,
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://m.jmzp.net.cn"
+    },
+    {
+      "key": "TTian",
+      "name": "天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "Bdys01",
