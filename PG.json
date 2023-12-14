@@ -26,7 +26,7 @@
       "key": "drpy_js_cilixiong",
       "name": "磁力熊(js) | 索引",
       "type": 3,
-      "playerType":"1",
+      "playerType": "1",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
@@ -1325,6 +1325,26 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+    },
+    {
+      "key": "QuarkPanso",
+      "name": "夸克盘搜 | 夸克搜",
+      "type": 3,
+      "api": "csp_QuarkPanso",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Funletu",
+      "name": "趣盘搜 | 夸克搜",
+      "type": 3,
+      "api": "csp_Funletu",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
       "key": "drpy_js_funletu",
