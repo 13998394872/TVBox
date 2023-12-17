@@ -356,6 +356,15 @@
       "timeout": 60
     },
     {
+      "key": "Cs1369",
+      "name": "996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
       "key": "Mayiys",
       "name": "蚂蚁影视",
       "type": 3,
@@ -1257,6 +1266,26 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
     },
     {
+      "key": "YunPanOne",
+      "name": "云盘资源 | 网盘搜",
+      "type": 3,
+      "api": "csp_YunPanOne",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "YunSo",
+      "name": "小云搜索 | 网盘搜",
+      "type": 3,
+      "api": "csp_YunSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
       "key": "Gitcafe",
       "name": "小纸条 | 阿里搜",
       "type": 3,
@@ -1413,12 +1442,17 @@
       "timeout": 60
     },
     {
-      "key": "配置中心",
-      "name": "配置中心",
+      "key": "Config",
+      "name": "网盘及弹幕配置",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
       "key": "应用商店",
@@ -1428,6 +1462,18 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://fm.t4tv.hz.cz/json/market.json"
+    },
+    {
+      "key": "FirstAid",
+      "name": "急救知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
       "key": "push_agent",
