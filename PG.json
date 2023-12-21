@@ -1266,6 +1266,26 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
     },
     {
+      "key": "DaPanSo",
+      "name": "大盘搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_DaPanSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://dapanso.com"
+    },
+    {
+      "key": "Qianfan",
+      "name": "千帆搜索 | 网盘搜",
+      "type": 3,
+      "api": "csp_Qianfan",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://pan.qianfan.app$$$QianFanID="
+    },
+    {
       "key": "YunPanOne",
       "name": "云盘资源 | 网盘搜",
       "type": 3,
