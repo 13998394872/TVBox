@@ -1326,6 +1326,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
+      "key": "YiSo",
+      "name": "易搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+    },
+    {
       "key": "Gitcafe",
       "name": "小纸条 | 阿里搜",
       "type": 3,
@@ -1374,16 +1384,6 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜 | 阿里搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
     },
     {
       "key": "QuarkPanso",
