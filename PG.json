@@ -1316,6 +1316,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
+      "key": "PanSearch",
+      "name": "PanSearch | 网盘搜",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
       "key": "Gitcafe",
       "name": "小纸条 | 阿里搜",
       "type": 3,
@@ -1360,16 +1370,6 @@
       "name": "盘搜 | 阿里搜",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "PanSearch",
-      "name": "盘搜索 | 阿里搜",
-      "type": 3,
-      "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
