@@ -187,6 +187,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/4KHDR_Cookie.json"
     },
     {
+      "key": "Libvio",
+      "name": "LIBVIO | 网盘",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.libvio.fun"
+    },
+    {
       "key": "drpy_js_rrdyw",
       "name": "人人电影网(js) | 网盘",
       "type": 3,
