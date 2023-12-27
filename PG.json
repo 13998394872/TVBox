@@ -114,7 +114,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://wogg.xyz/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://api.wogg.xyz/$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/wogg.json"
     },
     {
       "key": "Wobg",
@@ -124,7 +124,17 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://wobge.run.goorm.io/"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://wobge.run.goorm.io$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/wogg.json"
+    },
+    {
+      "key": "影视车",
+      "name": "影视车|网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": ".https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.weixine.net/$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/wogg.json"
     },
     {
       "key": "Hdhive",
