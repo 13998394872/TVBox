@@ -128,7 +128,7 @@
     },
     {
       "key": "影视车",
-      "name": "影视车|网盘",
+      "name": "影视车 | 网盘",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -145,6 +145,16 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Pan99",
+      "name": "盘99 | 网盘",
+      "type": 3,
+      "api": "csp_Pan99",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://pan99.xyz"
     },
     {
       "key": "Ppxzy",
