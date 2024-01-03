@@ -32,7 +32,7 @@
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
 "pikpak_flags":"4k|auto",
-"pikpak_proxy":"",
+"pikpak_proxy":"192.168.50.1:23456",
 "yd_auth":"",
 "yd_thread_limit":4,
 "yd_flags":"4kz|auto",
