@@ -1356,6 +1356,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
+      "key": "PanSou",
+      "name": "盘搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
       "key": "YiSo",
       "name": "易搜 | 网盘搜",
       "type": 3,
@@ -1400,16 +1410,6 @@
       "name": "UP云搜 | 阿里搜",
       "type": 3,
       "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜 | 阿里搜",
-      "type": 3,
-      "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
