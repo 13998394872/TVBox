@@ -1365,6 +1365,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
     },
     {
+      "key": "MiaoSou",
+      "name": "秒搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_MiaoSou",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
       "key": "PanSou",
       "name": "盘搜 | 网盘搜",
       "type": 3,
