@@ -188,6 +188,22 @@
       "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
+      "key": "Cable",
+      "name": "CableAV",
+      "type": 3,
+      "api": "csp_Cable",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "socks5://192.168.101.1:1080",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
       "key": "Eighteen",
       "name": "18AV",
       "api": "csp_Eighteen",
