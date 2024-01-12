@@ -1305,6 +1305,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
     },
     {
+      "key": "PikaSo",
+      "name": "皮卡搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_PikaSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.pikaso.top/"
+    },
+    {
       "key": "Panta",
       "name": "盘Ta | 网盘搜",
       "type": 3,
