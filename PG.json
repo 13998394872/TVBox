@@ -125,6 +125,16 @@
       "timeout": 60
     },
     {
+      "key": "ThunderShare",
+      "name": "迅雷云盘分享",
+      "type": 3,
+      "api": "csp_ThunderShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/thundershare.txt"
+    },
+    {
       "key": "PikPakShare",
       "name": "PikPak分享",
       "type": 3,
