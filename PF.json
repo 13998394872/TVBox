@@ -13,6 +13,26 @@
   ],
   "sites": [
     {
+      "key": "PikPakSharea",
+      "name": "PikPak分享1",
+      "type": 3,
+      "api": "csp_PikPakShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.a.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.a.json.txt.gz"
+    },
+    {
+      "key": "PikPakSharea1",
+      "name": "PikPak分享2",
+      "type": 3,
+      "api": "csp_PikPakShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.a1.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.a1.json.txt.gz"
+    },
+    {
       "key": "NiNi",
       "name": "泥巴(Fm)",
       "api": "csp_NiNi",
