@@ -145,6 +145,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json.txt.gz"
     },
     {
+      "key": "QuarkShare",
+      "name": "夸克云盘分享",
+      "type": 3,
+      "api": "csp_QuarkShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/quarkshare.txt"
+    },
+    {
       "key": "AliShare",
       "name": "阿里云盘分享",
       "type": 3,
