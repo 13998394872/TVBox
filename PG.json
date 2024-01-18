@@ -71,6 +71,15 @@
       "timeout": 60
     },
     {
+      "key": "JustLive",
+      "name": "JustLive | 直播",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 60
+    },
+    {
       "key": "Kanqiu",
       "name": "88看球 | 体育",
       "type": 3,
@@ -81,7 +90,7 @@
     },
     {
       "key": "Ysj",
-      "name": "異世界",
+      "name": "異世界 | 动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -114,6 +123,26 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60
+    },
+    {
+      "key": "PikPakShare",
+      "name": "PikPak分享",
+      "type": 3,
+      "api": "csp_PikPakShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json.txt.gz"
+    },
+    {
+      "key": "AliShare",
+      "name": "阿里云盘分享",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alishare.txt"
     },
     {
       "key": "Wogg",
@@ -154,6 +183,16 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "extvio",
+      "name": "extVIO | 网盘",
+      "type": 3,
+      "api": "csp_extvio",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.extvio.pro"
     },
     {
       "key": "Pan99",
@@ -274,6 +313,242 @@
       "timeout": 60,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/ddys.js"
+    },
+    {
+      "key": "PikaSo",
+      "name": "皮卡搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_PikaSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.pikaso.top/"
+    },
+    {
+      "key": "Panta",
+      "name": "盘Ta | 网盘搜",
+      "type": 3,
+      "api": "csp_Panta",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.91panta.cn/"
+    },
+    {
+      "key": "DaPanSo",
+      "name": "大盘搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_DaPanSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://dapanso.com"
+    },
+    {
+      "key": "Qianfan",
+      "name": "千帆搜索 | 网盘搜",
+      "type": 3,
+      "api": "csp_Qianfan",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://pan.qianfan.app$$$QianFanID=_ga=GA1.1.1464996670.1703172426; csrftoken=me5hMdyxpRxUFugMOU2BSsbXbaVlMd2Ogt8ooKYbtU9mKAaOKgQB0bjmNeM8rHMS; QianFanID=lirtp1pv2qvc7grcl6pe62zlao8uuc69; _ga_6Z94VT54DV=GS1.1.1703172425.1.1.1703172523.0.0.0"
+    },
+    {
+      "key": "YiSo",
+      "name": "易搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/易搜_Cookie.json"
+    },
+    {
+      "key": "HunHePan",
+      "name": "混合盘| | 网盘搜",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "YunPanOne",
+      "name": "云盘资源 | 网盘搜",
+      "type": 3,
+      "api": "csp_YunPanOne",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "YunSo",
+      "name": "小云搜索 | 网盘搜",
+      "type": 3,
+      "api": "csp_YunSo",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "PanSearch",
+      "name": "PanSearch | 网盘搜",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "MiaoSou",
+      "name": "秒搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_MiaoSou",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "PanSou",
+      "name": "盘搜 | 网盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "小纸条 | 阿里搜",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Dovx",
+      "name": "七夜 | 阿里搜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找資源 | 阿里搜",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$13998394872$$$~q147258369"
+    },
+    {
+      "key": "UpYun",
+      "name": "UP云搜 | 阿里搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "QuarkPanso",
+      "name": "夸克盘搜 | 夸克搜",
+      "type": 3,
+      "api": "csp_QuarkPanso",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "Funletu",
+      "name": "趣盘搜 | 夸克搜",
+      "type": 3,
+      "api": "csp_Funletu",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+    },
+    {
+      "key": "drpy_js_funletu",
+      "name": "趣盘搜(js) | 夸克搜",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/funletu.js"
+    },
+    {
+      "key": "drpy_js_aipanso",
+      "name": "爱盘搜(js) | 夸克搜",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/aipanso.js"
+    },
+    {
+      "key": "drpy_js_qimiao",
+      "name": "奇妙搜(js) | 夸克搜",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/qimiao.js"
+    },
+    {
+      "key": "csp_Sp360",
+      "name": "360影视 | 搜索",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "csp_Iqiyi",
+      "name": "爱奇艺 | 搜索",
+      "type": 3,
+      "api": "csp_Iqiyi",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "csp_QQ",
+      "name": "腾讯 | 搜索",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "csp_YouKu",
+      "name": "优酷 | 搜索",
+      "type": 3,
+      "api": "csp_YouKu",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
     },
     {
       "key": "555dy_open",
@@ -1305,242 +1580,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/yyets.js"
     },
     {
-      "key": "PikaSo",
-      "name": "皮卡搜 | 网盘搜",
-      "type": 3,
-      "api": "csp_PikaSo",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.pikaso.top/"
-    },
-    {
-      "key": "Panta",
-      "name": "盘Ta | 网盘搜",
-      "type": 3,
-      "api": "csp_Panta",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://www.91panta.cn/"
-    },
-    {
-      "key": "DaPanSo",
-      "name": "大盘搜 | 网盘搜",
-      "type": 3,
-      "api": "csp_DaPanSo",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://dapanso.com"
-    },
-    {
-      "key": "Qianfan",
-      "name": "千帆搜索 | 网盘搜",
-      "type": 3,
-      "api": "csp_Qianfan",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://pan.qianfan.app$$$QianFanID=_ga=GA1.1.1464996670.1703172426; csrftoken=me5hMdyxpRxUFugMOU2BSsbXbaVlMd2Ogt8ooKYbtU9mKAaOKgQB0bjmNeM8rHMS; QianFanID=lirtp1pv2qvc7grcl6pe62zlao8uuc69; _ga_6Z94VT54DV=GS1.1.1703172425.1.1.1703172523.0.0.0"
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜 | 网盘搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/易搜_Cookie.json"
-    },
-    {
-      "key": "HunHePan",
-      "name": "混合盘| | 网盘搜",
-      "type": 3,
-      "api": "csp_HunHePan",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "YunPanOne",
-      "name": "云盘资源 | 网盘搜",
-      "type": 3,
-      "api": "csp_YunPanOne",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "YunSo",
-      "name": "小云搜索 | 网盘搜",
-      "type": 3,
-      "api": "csp_YunSo",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "PanSearch",
-      "name": "PanSearch | 网盘搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "MiaoSou",
-      "name": "秒搜 | 网盘搜",
-      "type": 3,
-      "api": "csp_MiaoSou",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜 | 网盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "小纸条 | 阿里搜",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "Dovx",
-      "name": "七夜 | 阿里搜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找資源 | 阿里搜",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$13998394872$$$~q147258369"
-    },
-    {
-      "key": "UpYun",
-      "name": "UP云搜 | 阿里搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "QuarkPanso",
-      "name": "夸克盘搜 | 夸克搜",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "Funletu",
-      "name": "趣盘搜 | 夸克搜",
-      "type": 3,
-      "api": "csp_Funletu",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
-    },
-    {
-      "key": "drpy_js_funletu",
-      "name": "趣盘搜(js) | 夸克搜",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/funletu.js"
-    },
-    {
-      "key": "drpy_js_aipanso",
-      "name": "爱盘搜(js) | 夸克搜",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/aipanso.js"
-    },
-    {
-      "key": "drpy_js_qimiao",
-      "name": "奇妙搜(js) | 夸克搜",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/js/qimiao.js"
-    },
-    {
-      "key": "csp_Sp360",
-      "name": "360影视 | 搜索",
-      "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "csp_Iqiyi",
-      "name": "爱奇艺 | 搜索",
-      "type": 3,
-      "api": "csp_Iqiyi",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "csp_QQ",
-      "name": "腾讯 | 搜索",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "csp_YouKu",
-      "name": "优酷 | 搜索",
-      "type": 3,
-      "api": "csp_YouKu",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
       "key": "Config",
       "name": "网盘及弹幕配置",
       "type": 3,
@@ -1573,16 +1612,6 @@
         "type": "rect",
         "ratio": 3.8
       }
-    },
-    {
-      "key": "PikPakShare",
-      "name": "PikPak分享",
-      "type": 3,
-      "api": "csp_PikPakShare",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/pikpakclass.json.txt.gz"
     },
     {
       "key": "push_agent",
