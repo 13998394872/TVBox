@@ -225,6 +225,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://pan99.xyz"
     },
     {
+      "key": "EightEight",
+      "name": "88网盘 | 网盘",
+      "type": 3,
+      "api": "csp_EightEight",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://662688.xyz"
+    },
+    {
       "key": "Ppxzy",
       "name": "皮皮虾 | 网盘",
       "type": 3,
@@ -242,7 +252,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://xzyshd.com"
     },
     {
       "key": "TZFile",
@@ -694,6 +704,15 @@
       "name": "996影院",
       "type": 3,
       "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "Ys23",
+      "name": "影视23",
+      "type": 3,
+      "api": "csp_Ys23",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60
