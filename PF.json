@@ -13,6 +13,15 @@
   ],
   "sites": [
     {
+      "key": "hsck_open",
+      "name": "🔞黄色仓库(Cat)",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/hsck_open.js",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
       "key": "maiyoux_open",
       "name": "🔞麦游成人聚合直播(Cat)",
       "type": 3,
@@ -190,8 +199,7 @@
       "timeout": 60,
       "style": {
         "type": "rect"
-      },
-      "ext": "$$$socks5://192.168.50.1:23456"
+      }
     },
     {
       "key": "JavDb",
@@ -202,8 +210,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.485
-      },
-      "ext": "$$$socks5://192.168.50.1:23456"
+      }
     },
     {
       "key": "Miss",
@@ -226,7 +233,6 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "socks5://192.168.101.1:1080",
       "style": {
         "type": "rect",
         "ratio": 1.485
