@@ -189,7 +189,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alishare.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/ext/alishare.txt$$$db$$$1"
     },
     {
       "key": "Wogg",
@@ -992,15 +992,6 @@
       "name": "南瓜",
       "type": 3,
       "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "Cs1369",
-      "name": "996影院",
-      "type": 3,
-      "api": "csp_Cs1369",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60
